@@ -1,0 +1,27 @@
+= Cabo Verde Elections
+
+WARNING: São dados gerados via 'scraping' sem garantia, teste, validação/confirmação. 
+
+Este diretorio contem conjunto de dados sobre eleições em Cabo Verde em formato aberto (JSON)
+
+
+== Eleições (Elections)
+
+* Autárquicas / Municipal 
+* Legislativas
+* Presidenciais
+
+== Files 
+
+* Naming convention: resultado-eleicao-{ELECTION_TYPE}-YEAR.jar
+
+
+== Fontes de dados
+
+* https://cne.cv/resultados-das-eleicoes/
+
+
+== Reference
+
+* TODO
+
