@@ -1,0 +1,14 @@
+= Cabo Verde
+
+NOTE: This repository contain data about Cabo Verde in open format
+
+Este repositorio contem conjunto de dados sobre Cabo Verde
+
+
+== Reference
+
+* https://pt.wikipedia.org/wiki/Cabo_Verde
+* https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html
+
+
+
