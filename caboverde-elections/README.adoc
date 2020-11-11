@@ -7,9 +7,15 @@ Este diretorio contem conjunto de dados sobre eleições em Cabo Verde em format
 
 == Eleições (Elections)
 
-* Autárquicas / Municipal 
-* Legislativas
-* Presidenciais
+.Eleições
+[options="header"]
+|====
+|Eleição                   |Atualizado
+
+|Autárquicas/Municipal     |2020-10-30 
+|Legislativas              |2020-10-30 
+|Presidenciais             |2020-11-11
+|====
 
 == Files 
 
